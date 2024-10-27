@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\refint\02. A Miner Task.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\02. A Miner Task\obj\Debug\net6.0\ref\02. A Miner Task.dll

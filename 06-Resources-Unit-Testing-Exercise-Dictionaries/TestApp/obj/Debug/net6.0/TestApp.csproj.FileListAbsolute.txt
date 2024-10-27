@@ -1,0 +1,11 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\ref\TestApp.dll

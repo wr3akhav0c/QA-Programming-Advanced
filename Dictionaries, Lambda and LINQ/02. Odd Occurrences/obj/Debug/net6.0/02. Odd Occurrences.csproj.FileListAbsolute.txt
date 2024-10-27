@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\refint\02. Odd Occurrences.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\ref\02. Odd Occurrences.dll

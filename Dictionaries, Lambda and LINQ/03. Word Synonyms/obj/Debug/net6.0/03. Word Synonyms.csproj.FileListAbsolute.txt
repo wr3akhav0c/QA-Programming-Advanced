@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\refint\03. Word Synonyms.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\03. Word Synonyms\obj\Debug\net6.0\ref\03. Word Synonyms.dll

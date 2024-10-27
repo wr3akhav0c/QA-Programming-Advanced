@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\net6.0\04. Word Filter.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\net6.0\04. Word Filter.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\net6.0\04. Word Filter.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\net6.0\04. Word Filter.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\net6.0\04. Word Filter.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\refint\04. Word Filter.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\04. Word Filter.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\net6.0\ref\04. Word Filter.dll

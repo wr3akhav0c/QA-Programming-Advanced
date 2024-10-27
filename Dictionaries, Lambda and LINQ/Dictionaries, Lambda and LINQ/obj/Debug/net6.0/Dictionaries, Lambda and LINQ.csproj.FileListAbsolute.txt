@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\net6.0\Dictionaries, Lambda and LINQ.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\net6.0\Dictionaries, Lambda and LINQ.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\net6.0\Dictionaries, Lambda and LINQ.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\net6.0\Dictionaries, Lambda and LINQ.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\net6.0\Dictionaries, Lambda and LINQ.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\refint\Dictionaries, Lambda and LINQ.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\Dictionaries, Lambda and LINQ.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\net6.0\ref\Dictionaries, Lambda and LINQ.dll

@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\refint\04. SoftUni Parking.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\04. SoftUni Parking\obj\Debug\net6.0\ref\04. SoftUni Parking.dll

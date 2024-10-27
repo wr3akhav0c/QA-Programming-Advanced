@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\refint\05. Student Academy.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\05. Student Academy\obj\Debug\net6.0\ref\05. Student Academy.dll

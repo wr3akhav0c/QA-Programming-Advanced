@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\bin\Debug\net6.0\03. Orders.exe
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\bin\Debug\net6.0\03. Orders.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\bin\Debug\net6.0\03. Orders.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\bin\Debug\net6.0\03. Orders.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\bin\Debug\net6.0\03. Orders.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\refint\03. Orders.dll
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\03. Orders.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING ADVANCED\Exercise_Dictionaries, Lamdba and LINQ\03. Orders\obj\Debug\net6.0\ref\03. Orders.dll
